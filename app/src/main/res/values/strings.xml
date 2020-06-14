@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Social Distance</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Social Distance</string>
+    <string name="nav_header_subtitle">info@acdt.com.ar</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+
+    <string name="start_button_text">Comenzar</string>
+    <string name="stop_button_text">Parar</string>
+    <string name="location_access_needed">Esta aplicación necesita acceso a la localización</string>
+    <string name="grant_location_access">Por favor conceda permisos de localización para que la aplicación pueda detectar beacons</string>
+    <string name="not_support_bluetooth_msg">Este dispositivo no soporta bluetooth, no es posible buscar beacons</string>
+    <string name="not_support_ble_msg">Este dispositivo no soporta bluetooth low energy, estandar incorporado a partir de bluetooth 4.0</string>
+    <string name="cancel_button_text">Cancelar</string>
+    <string name="location_disabled">Localización en modo alta precisión no activado</string>
+    <string name="location_settings">Abrir ajustes de localización</string>
+    <string name="location_not_granted">Ya que el permiso de localización no ha sido concedido,</string>
+    <string name="cannot_discover_beacons">esta aplicación no podrá buscar beacons</string>
+    <string name="funcionality_limited">Funcionalidad limitada</string>
+    <string name="no_bluetooth_msg">Con el bluetooth desactivado no es posible buscar beacons</string>
+    <string name="start_looking_for_beacons">Empezando a buscar beacons</string>
+    <string name="inicializing_beacons">Inicializando la configuracion para detactar beacons</string>
+    <string name="stop_looking_for_beacons">Parando la búsqueda de beacons</string>
+    <string name="no_beacons_detected">No se han encontrado beacons</string>
+    <string name="beacons_start_transmision">Comenzando a transmitir señales de bluetooth baja frecuencia</string>
+    <string name="beacons_stop_transmision">Finalizando la transmisión de señales de bluetooth baja frecuencia</string>
+    <string name="beacon_detected">Se detecto el dispositivo con el instance Id = %1$s </string>
+    <string name="beacon_is_transmiting">Se esta transmitiendo bluetooth low energy</string>
+    <string name="beacon_is_stop_transmiting">Se dejo de transmitir bluetooth low energy</string>
+    <string name="beacon_error_transmit">Se produjo un error al transmitir bluetooth low energy</string>
+    <string name="blutooth_is_not_active">El bluetooth no se encuentra activado, no es posible realizar la búsqueda de beacons</string>
+
+
+</resources>
